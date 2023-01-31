@@ -1,0 +1,7 @@
+﻿  CustomerData.cpp
+C:\c++\Id blockchain\Id blockchain\CustomerData.cpp(29,34): warning C4244: "Argument": Konvertierung von "__int64" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=int
+          ]
+  Id blockchain.vcxproj -> C:\c++\Id blockchain\x64\Debug\Id blockchain.exe
